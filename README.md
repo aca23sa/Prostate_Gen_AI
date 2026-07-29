@@ -92,8 +92,8 @@ Tested on:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AI-CARE-project/gen_ai_prostate.git
-cd gen_ai_prostate
+git clone [https://github.com/aca23sa/Prostate_Gen_AI.git]
+cd Prostate_Gen_AI
 ```
 
 ---
@@ -384,7 +384,7 @@ Input channels:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AI-CARE-project/gen_ai_prostate.git
+git clone [https://github.com/aca23sa/Prostate_Gen_AI.git]
 ```
 
 ### 2. Create and activate virtual environment
@@ -498,7 +498,7 @@ If you use this repository, please cite:
   title={Conditional Diffusion Models for Synthetic Prostate MRI Generation},
   author={Shayaan Ather Hashmi},
   year={2026},
-  url={https://github.com/AI-CARE-project/gen_ai_prostate}
+  url={https://github.com/aca23sa/Prostate_Gen_AI.git}
 }
 ```
 
